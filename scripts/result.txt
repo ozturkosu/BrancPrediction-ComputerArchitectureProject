@@ -1,0 +1,28 @@
+
+ResultDirs ==>      	lts/6421.32KB/	
+
+LONG-SPEC2K6-00     	       2.185 	
+LONG-SPEC2K6-01     	       7.532 	
+LONG-SPEC2K6-02     	       1.188 	
+LONG-SPEC2K6-03     	       1.894 	
+LONG-SPEC2K6-04     	       9.341 	
+LONG-SPEC2K6-05     	       5.198 	
+LONG-SPEC2K6-06     	       0.813 	
+LONG-SPEC2K6-07     	      12.011 	
+LONG-SPEC2K6-08     	       0.889 	
+LONG-SPEC2K6-09     	       4.210 	
+SHORT-FP-1          	       1.690 	
+SHORT-FP-2          	       0.796 	
+SHORT-FP-3          	       0.064 	
+SHORT-INT-1         	       0.490 	
+SHORT-INT-2         	       6.399 	
+SHORT-INT-3         	       8.615 	
+SHORT-MM-1          	       7.660 	
+SHORT-MM-2          	       9.617 	
+SHORT-MM-3          	       0.079 	
+SHORT-SERV-1        	       1.211 	
+SHORT-SERV-2        	       1.228 	
+SHORT-SERV-3        	       3.660 	
+
+AMEAN               	       3.944 	
+
